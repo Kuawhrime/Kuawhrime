@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim MOHAMED</h1>
 <h3 align="center">A passionate Cybersecurity Student from France</h3>
-img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/CalmBlankHound-size_restricted.gif"
+![image](https://github.com/Kuawhrime/Kuawhrime/assets/67485955/c8f82a15-e9bd-4e18-861c-691fb6bd1115)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuawhrime&label=Profile%20views&color=0e75b6&style=flat" alt="kuawhrime" /> </p>
 
