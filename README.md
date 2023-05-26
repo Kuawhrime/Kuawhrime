@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim MOHAMED</h1>
 <h3 align="center">A passionate Cybersecurity Student from France</h3>
-img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3878093-Mr-Robot"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuawhrime&label=Profile%20views&color=0e75b6&style=flat" alt="kuawhrime" /> </p>
 
@@ -31,3 +30,5 @@ img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/38780
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kuawhrime&count_private=true&show_icons=true&locale=en&layout=compact" alt="kuawhrime" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kuawhrime&count_private=true&show_icons=true&locale=en" alt="kuawhrime" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kuawhrime&count_private=true" alt="kuawhrime" /></p>
