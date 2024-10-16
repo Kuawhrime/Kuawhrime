@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **C#, HTML/CSS/JS, Flask and Django**
+- 🌱 I’m currently learning **Rust 🔧**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kuawhrime](https://github.com/Kuawhrime)
 
