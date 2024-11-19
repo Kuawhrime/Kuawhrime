@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karim MOHAMED</h1>
 <h3 align="center">A passionate learner</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuawhrime&label=Profile%20views&color=0e75b6&style=flat" alt="kuawhrime" /> </p>
-
 - 🔭 I’m currently working on **nothing**
 
 - 🌱 I’m currently learning **Haskell 🔧**
@@ -12,7 +10,6 @@
 - 💬 Ask me about **Cybersecurit, DevOps and development**
 
 - 📫 How to reach me **karim.mohamed@epitech.eu**
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karim-mohamed-74290a259/)
@@ -38,4 +35,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuawhrime&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuawhrime&label=Profile%20views&color=0e75b6&style=flat" alt="kuawhrime" /> </p>
 [![](https://visitcount.itsvg.in/api?id=kuawhrime&icon=0&color=0)](https://visitcount.itsvg.in)
