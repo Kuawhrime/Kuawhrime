@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Karim MOHAMED</h1>
-<h3 align="center">A passionate Cybersecurity Student from France</h3>
+<h3 align="center">A passionate learner</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kuawhrime&label=Profile%20views&color=0e75b6&style=flat" alt="kuawhrime" /> </p>
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Rust 🔧**
+- 🌱 I’m currently learning **Haskell 🔧**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kuawhrime](https://github.com/Kuawhrime)
 
-- 💬 Ask me about **Cybersecurity and development**
+- 💬 Ask me about **Cybersecurit, DevOps and development**
 
 - 📫 How to reach me **karim.mohamed@epitech.eu**
 
