@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kuawhrime](https://github.com/Kuawhrime)
 
-- 💬 Ask me about **Cybersecurit, DevOps and development**
+- 💬 Ask me about **Cybersecurity, DevOps and development**
 
 - 📫 How to reach me **karim.mohamed@epitech.eu**
 
