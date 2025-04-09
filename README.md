@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **nothing**
 
-- 🌱 I’m currently learning **Haskell 🔧**
+- 🌱 I’m currently learning **AWS, GCP, AZURE**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Kuawhrime](https://github.com/Kuawhrime)
 
